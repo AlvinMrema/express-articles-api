@@ -8,7 +8,7 @@ CREATE TABLE users (
     email VARCHAR,
     username VARCHAR,
     bio VARCHAR,
-    image BYTEA
+    image VARCHAR
 );
 
 -- /* Part to Work on. Very Important */
